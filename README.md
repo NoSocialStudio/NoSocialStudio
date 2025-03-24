@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小汪同学祝您今天愉快!&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小蛙同学祝您今天愉快!&center=true&size=28">
   </a>
 </div>
 
