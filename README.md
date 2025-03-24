@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=page.id"/>
+	<img src="https://visitor-badge.glitch.me/badge?page_id=NoSocialStudio"/>
 </div>
 
-# 🙋 Hi!
+# 🙋 Hi!!!!!!
